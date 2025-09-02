@@ -1,0 +1,15 @@
+#header h1 {
+    font-size: 3em; /* tamanho grande para destaque */
+    margin-bottom: 0.2em;
+}
+
+#header p strong {
+    font-size: 1.2em; /* mantém destaque, mas não gigante */
+}
+
+#header small {
+    font-size: 0.8em; /* já está menor */
+    color: #ccc; /* opcional: cor mais suave */
+    display: block; /* força quebra de linha */
+    margin-top: 0.5em;
+}
