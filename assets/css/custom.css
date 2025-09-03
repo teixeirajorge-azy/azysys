@@ -13,3 +13,11 @@
     display: block; /* força quebra de linha */
     margin-top: 0.5em;
 }
+
+.highlight {
+  background-color: #000; /* amarelo suave, mas podes trocar */
+  color: #fff;
+  padding: 0 4px;           /* espaço lateral */
+  border-radius: 4px;       /* cantos arredondados */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* sombreado */
+}
